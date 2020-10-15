@@ -1,0 +1,88 @@
+WHY WORDPRESS:
+	WordPress holds the largest CMS market share by far, and currently accounts for over a quarter of all websites. As a result, many users are already familiar with the WordPress CMS, requiring less staff training when building a new site.
+	WordPress can be self-hosted, so there are no costs associated with downloading, installing, and upgrading. There are more than 50,000 WordPress plugins (often free), such as slideshows, contact forms, SEO optimization, etc.
+	Fresh Consulting licenses the premium plugins we deploy on websites, such as WordPress video manuals and easy website backup and restore functions, at no additional cost to you.
+	WordPress is popular because it meets the demands of many users with its flexible framework, which allows designers and developers to create and modify layouts and applications. Coupled with user-generated extensions, websites are no longer limited by enterprise extensions.
+	Our team has experience extending WordPress functionality, as well as incorporating a wide range of plugins, to meet our clients’ unique demands.
+PROS:
+	WordPress is free and gives you complete control of your website. You own and control all your website files and data. You are not tied to a web hosting company and can move your website anywhere you want.
+	It gives you access to a huge collection of extensions, add-ons, and plugins to extend your website. This enormous access to professional applications allow you to make anything you want.
+	You are in charge of your website, so you can keep it simple and only add new features as your website grows. You can make your website super fast and use all the neat SEO best practices to bring new users.
+	Super easy to customize with thousands of website designs and templates to choose from. Each of them comes with different customization options, allowing you to create truly unique websites. Simply put, it makes website building easy.
+
+
+CONS:
+	You are in charge of your website. This means you are also responsible for security, making backups, and installing updates. You can automate all these tasks, but they would still require your attention unless you’re using one of these managed WordPress hosting companies.
+	WordPress does not come with a built-in drag and drop website builder. It takes some time for most beginners to get familiar with it and learn the basics. However you can use one of the popular drag and drop page builder plugins for WordPress.
+	You do not need to learn coding to use WordPress. However, some basic knowledge of HTML and CSS will make things a lot easier. Most beginners acquire these basic skills as they use WordPress.
+
+HISTORY:
+•	On May 27, 2003, Matt announced the availability of the first version of WordPress. It was well received by the community. It was based on b2 Cafelog with significant improvements. The first version of WordPress included a new admin interface, new templates, and generated XHTML 1.1 compliant templates. 
+•	In May 2004, version 1.2 of WordPress came with plugin architecture. This enabled users and developers to extend the functionality of WordPress by writing their own plugins and sharing them with rest of the community.
+•	In February 2005, WordPress 1.5 came with Pages, comment moderation tools, new default theme Kubrick, and a completely new Theme System. Matt announced themes with these words:
+
+•	In 1.5 we have created an incredibly flexible theme system that adapts to you rather than expecting you adapt to it. You can have your entire weblog run through a single file, just like before, or you can literally have a different template for every single different category. It’s as much or as little as you want. We’ve also broken common site elements like headers, footers, and sidebars into their own files so you can make a change in one place and see it everywhere immediately. “Matt Mullenweg – Announcing WordPress 1.5”
+•	In December 2005, WordPress 2.0 was released with a new admin dashboard. This new admin area was a complete overhaul of the administration screens in WordPress.
+•	On March 1, 2006, Automattic, the company founded by WordPress co-founder Matt Mullenweg, filed the trademark registration for WordPress and WordPress logo.
+•	In 2008, a web design company called Happy Cog joined the WordPress project to help design a new WordPress admin interface. A usability study was conducted to design the admin UI.
+•	In June of 2010, Automattic, the company founded by WordPress co-founder Matt Mullenweg, transferred the ownership of WordPress trademark and logo to the WordPress Foundation. This was a significant moment in WordPress history, because it ensured that WordPress will continue to grow, and is not dependent on a company or a group of developers to continue the project.
+
+•	On June 17, 2010, WordPress 3.0 was released. It was a major step towards WordPress as CMS. This release introduced several features such as custom post types, better custom taxonomies, custom backgrounds, header, menus, contextual help on admin screens, etc. WordPress MU project was merged into WordPress core to create Multisite networks.
+•	In 2011, Post formats and admin bar made their way into WordPress.
+
+•	Around that time, some really cool WordPress plugins were building powerful eCommerce platforms on top of WordPress. This enabled WordPress users to create online stores and build powerful ecommerce websites using WordPress.
+
+•	In 2012, theme customizer, theme previews, and new media manager were introduced. These features tremendously helped new users in creating image galleries and previewing themes before they change to a new theme.
+
+•	In 2013, WordPress 3.7 came with the new automatic updates feature that allowed WordPress to automatically update your site’s software for minor releases. The automatic updates feature is very similar to what Google Chrome browser does. Several users didn’t like the feature, so we wrote a tutorial on how to disable automatibecometes.
+
+•	By this time WordPress had already became the most popular CMS in the world.
+
+•	In December 2013, WordPress 3.8 was released which introduced MP6, the new WordPress admin interface. This new interface was responsive and was aimed to provide a better user experience to users, on any device or screen size.
+•	On April 16, 2014, WordPress 3.9 was released. It focused on improving the WordPress visual post editor. Images can now be dragged and dropped directly into the post editor. Users are now able to edit 
+•	images right inside the editor and see their gallery previews inside the editor. WordPress 3.9 also introduced live widget previews, audio playlists, and several other enhancements.
+
+
+•	More refinements were made to WordPress core throughout the year with subsequent WordPress 4.0 and WordPress 4.1 releases.
+
+•	2014 was also the first year when non-English downloads for WordPress surpassed English downloads.
+
+•	In 2015, WordPress 4.2, 4.3, and 4.4 were released. These releases focused on improved localization, emoji support, theme customizer, and laying down infrastructure for the WordPress REST API.
+•	In 2016, WordPress 4.5, 4.6, and 4.7 were released. Each release introduced some new features and improvements. Most notable changes during the year were streamlined updates for plugins and themes, content recovery by using browser storage, and custom css feature for theme customizer. By the end of the year, WordPress.org announced actively supporting HTTPs
+
+•	In 2017, WordPress 4.8 and 4.9 were released. These releases brought several new default widgets to add audio, video, images, gallery, rich text, and HTML. These releases also laid the groundwork for the new WordPress block editor.
+
+•	In 2018, WordPress 5.0 was released with a brand new editing experience. The new WordPress block editor project was codenamed Gutenberg. See our complete Gutenberg tutorial – WordPress block editor
+
+WORDPRESS VS DRUPAL VS JOOMLA VS BLOOKER:
+
+WORDPRESS	    DRUPAL	   JOOMLA	  BLOOKER
+Ecommerce site
+Complex site
+Low maintenance site	Complex site	Ecommerce site	Low maintenance site
+WordPress was originally designed to build blogs	 Drupal is the most powerful open source web content management system you’re going to find	Joomla is the middle ground between WordPress and Drupal regarding the need for tech skills.	Blogger is a free service owned by Google that lets you set up a simple website within minutes
+Huge community of users
+	Supports complex, multi-domain management
+	Large, supportive community	Resources and community support are limited
+
+Option of WordPress hosting or self-hosting
+	Requires a hosting service and domain name (Drupal doesn’t offer hosting like WordPress and Joomla!)
+	Powerful, user-friendly admin interface
+	Entirely free (no associated costs for website hosting or domain name)
+
+The need to add multiple extensions can seriously slow down your site’s speed
+	Extension updates not always compatible with the backend
+	Limited marketplace for extensions compared to WordPress and Drupal
+	Limited content management and categorization tools, templates and customization capability
+
+
+THEMES AND PLUGINS:
+•	A WordPress Theme is a collection of files that work together to produce a graphical interface with an underlying unifying design for a website. These files are called template files. A Theme modifies the way the site is displayed, without modifying the underlying software. Themes may include customized template files, image files (*.jpg, *.png, .gif), style sheets (.css), custom Pages, as well as any necessary code files (*.php). For an introduction to template files, see Template Files.
+•	WordPress Plugins are PHP scripts that extend the functionality of WordPress. They enhance the features of WordPress, or add entirely new features to your site. Plugins are often developed by volunteers, and are usually free to the public. Plugins are available via the WordPress Plugin Directory.Although, themes also add some features and functionality to a site but they are different from plugins. A plugin can't change a websites design, look and feel but a theme can do everything. You can customize some functionality in themes instead of installing plugin but themes can't be replaced by plugin.
+•	A theme is external effect like a website's presentation and designing. Whereas, a plugin is the interior effect which add or remove some functions to a site.
+•	Theme organizes and displays the entire site's information to display it to the visitors.
+•	If you want to change the appearance of your site by changing your theme, then all the customizations done will be gone (data and information will remain safe). But you can activate or deactivate a plugin whenever you want. It will not affect the site in any way.
+•	Your site speed is mainly affected by designing of theme, number of images, cache power. Number of plugins installed and functionality code exist as plugin or theme does not contribute in site's speed.
+•	It's better to allow themes to handle the look of a site and plugin to handle how a site should behave. Thus, when theme will be changed, all the functionalities of site will remain there
+
+
