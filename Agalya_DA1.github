@@ -1,0 +1,84 @@
+PROCESS OF GITHUB WORKING METHODALOGY:
+Create a branch
+When you're working on a project, you're going to have a bunch of different features or ideas in progress at any given time – some of which are ready to go, and others which are not. Branching exists to help you manage this workflow.
+When you create a branch in your project, you're creating an environment where you can try out new ideas. Changes you make on a branch don't affect the main branch, so you're free to experiment and commit changes, safe in the knowledge that your branch won't be merged until it's ready to be reviewed by someone you're collaborating with.
+Add commits
+Once your branch has been created, it's time to start making changes. Whenever you add, edit, or delete a file, you're making a commit, and adding them to your branch. This process of adding commits keeps track of your progress as you work on a feature branch.
+Commits also create a transparent history of your work that others can follow to understand what you've done and why. Each commit has an associated commit message, which is a description explaining why a particular change was made. Furthermore, each commit is considered a separate unit of change. This lets you roll back changes if a bug is found, or if you decide to head in a different direction
+Open a Pull Request
+Pull Requests initiate discussion about your commits. Because they're tightly integrated with the underlying Git repository, anyone can see exactly what changes would be merged if they accept your request.
+You can open a Pull Request at any point during the development process: when you have little or no code but want to share some screenshots or general ideas, when you're stuck and need help or advice, or when you're ready for someone to review your work. By using GitHub's @mention system in your Pull Request message, you can ask for feedback from specific people or teams, whether they're down the hall or ten time zones away.
+Discuss and review your code
+Once a Pull Request has been opened, the person or team reviewing your changes may have questions or comments. Perhaps the coding style doesn't match project guidelines, the change is missing unit tests, or maybe everything looks great and props are in order. Pull Requests are designed to encourage and capture this type of conversation.
+You can also continue to push to your branch in light of discussion and feedback about your commits. If someone comments that you forgot to do something or if there is a bug in the code, you can fix it in your branch and push up the change. GitHub will show your new commits and any additional feedback you may receive in the unified Pull Request view.
+Deploy
+With GitHub, you can deploy from a branch for final testing in production before merging to main.
+Once your pull request has been reviewed and the branch passes your tests, you can deploy your changes to verify them in production. If your branch causes issues, you can roll it back by deploying the existing main branch into production.
+Different teams may have different deployment strategies. For some, it may be best to deploy to a specially provisioned testing environment. For others, deploying directly to production may be the better choice based on the other elements in their workflow.
+Merge
+Now that your changes have been verified in production, it is time to merge your code into the main branch.
+Once merged, Pull Requests preserve a record of the historical changes to your code. Because they're searchable, they let anyone go back in time to understand why and how a decision was made.
+WAYS TO ACCESS GITHUB:
+Go to the GitHub website, look in the upper right corner, and click the + sign and then click “New repository.” Name the repository, and add a quick description. Click “Initialize this repository with a README” if you want to include the README file
+
+
+
+PROS AND CONS OF GITHUB:
+PROS
+•	Version Control: GitHub, being built over Git, makes it fast and easy to develop projects in versions/branches and easily rollback to previous versions when necessary.
+•	Pull Requests/Review: GitHub has a powerful UI for creating pull requests, with useful tools like inline commenting and more recently "suggested changes". Pull request history is always maintained and easy to search.
+•	Collaboration/Auditing: It's easy for multiple team members to work on the same project and merge changes (often) seamlessly. All contributions are tracked so it's easy to identify contributors.
+•	Industry Standard: GitHub is used by virtually all major open source projects so it's very easy to find and contribute to projects of interest if you're well versed with GitHub.
+CONS
+•	Reviewing large pull requests can be tedious and it can be tough to identify recent changes (e.g. a one line change) in new files or files with lots of changes.
+•	It should be a bit harder to push unresolved merge conflicts, we've had these slip through once in awhile.
+•	You have to be careful with merge operations; a bad merge can be painful to reverse.
+FEATURES NEEDS TO BE ADDED:
+•	Conflict management could be improved.
+•	Searching could be great.
+•	The Macbook GitHub application could be improved to be more intuitive.
+•	Poor search feature at times for popular languages. Also could be improved
+COMPARISON OF VERSION CONTROL APPLICATIONS:
+Version control application	         Git	         CVS	     SVN
+Introduction	Git is one of the best version control tools that is available in the present market.	It is yet another most popular revision control system. CVS has been the tool of choice for a long time.	Apache Subversion, abbreviated as SVN aims at to be a best-matched successor to the widely used CVS tool that we just discussed above.
+Features	•	Pluggable merge strategies.
+•	Toolkit-based design.
+•	Periodic explicit object packing.
+	•	Anonymous read access.
+•	‘Update’ command to keep local copies up to date.
+•	Can uphold different branches of a project.
+	•	Supports atomic commits.
+•	Versioned symbolic links.
+•	Free-form versioned metadata.
+Pros	•	Cross-platform
+•	Code changes can be very easily and clearly tracked.
+•	Easily maintainable and robust.
+	•	Helpful support from vast CVS community
+•	allows good web browsing of the source code repository
+•	It’s a very old, well known & understood tool.
+	•	Supports empty directories.
+•	Have better windows support as compared to Git.
+•	Easy to set up and administer.
+
+Cons	•	Complex and bigger history log become difficult to understand.
+•	Does not support keyword expansion and timestamp preservation.
+	•	Poor support for distributed source control.
+•	Does not support signed revisions and merge tracking.
+	•	Does not store the modification time of files.
+•	Does not deal well with filename normalization.
+•	Does not support signed revisions.
+
+Open source	Yes	Yes	Yes
+Cost	Free	Free	Free
+Website	https://git-scm.com/	http://savannah.nongnu.org/	https://subversion.apache.org/
+
+
+
+
+
+
+
+
+
+
+
